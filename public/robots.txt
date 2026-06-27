@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /auth
+Disallow: /reset-password
+Disallow: /dashboard
+Disallow: /deposit
+Disallow: /withdraw
+Disallow: /transactions
+Disallow: /invest
+Disallow: /referrals
+Disallow: /admin
